@@ -3,9 +3,7 @@ package com.demo.task;
 import com.demo.bean.Weather;
 import com.demo.bean.WeatherStationOne;
 import com.demo.bean.WeatherStationTwo;
-import com.demo.service.WeatherForecastService;
 import org.springframework.beans.factory.InitializingBean;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.util.Random;
